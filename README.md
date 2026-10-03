@@ -15,7 +15,7 @@ correspondientes a la Actividad 2.
 
 ## Ejercicios
 
-- Ejercicio 2.1 - Clase Persona
+- Ejercicio 2.1 
 - Ejercicio 2.2
 - Ejercicio 2.3
 - Ejercicio 2.4
